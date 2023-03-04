@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'ZoomRTC'
   s.summary      = 'Integration ZoomSDK using cocoapods.'
-  s.version      = '5.12.8.5463'
+  s.version      = '5.13.5.6488'
   s.authors      = 'zoom.us'
   s.homepage     = 'https://marketplace.zoom.us/develop/create'
   s.documentation_url = 'https://marketplace.zoom.us/docs/guides/'
